@@ -26,6 +26,7 @@ const ImagePreview = (props) => {
 
 }
 
+
       </div>
     </div>
   )
